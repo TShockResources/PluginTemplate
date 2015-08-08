@@ -7,7 +7,7 @@ namespace PluginTemplate
     /// <summary>
     /// The main plugin class should always be decorated with an ApiVersion attribute. The current API Version is 1.20
     /// </summary>
-    [ApiVersion(1,20)]
+    [ApiVersion(1,21)]
     public class PluginTemplate : TerrariaPlugin
     {
         /// <summary>
