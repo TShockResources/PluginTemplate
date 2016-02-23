@@ -42,6 +42,10 @@ namespace PluginTemplate
             get { return "A simple, senseless, plugin used to demonstrate the code structure of a TShock and TS-API plugin."; }
         }
 
+        /// <summary>
+        /// The plugin's constructor
+        /// Set your plugin's order (optional) and any other constructor logic here
+        /// </summary>
         public PluginTemplate(Main game) : base(game)
         {
 
@@ -49,17 +53,24 @@ namespace PluginTemplate
 
         /// <summary>
         /// Performs plugin initialization logic.
+        /// Add your hooks, config file read/writes, etc here
         /// </summary>
         public override void Initialize()
         {
             throw new System.NotImplementedException();
         }
         
+        /// <summary>
+        /// Performs plugin cleanup logic
+        /// Remove your hooks and perform general cleanup here
+        /// </summary>
         protected override void Dispose(bool disposing)
         {
             if (disposing)
             {
-                
+                //unhook
+                //dispose child objects
+                //set large objects to null
             }
             base.Dispose(disposing);
         }
