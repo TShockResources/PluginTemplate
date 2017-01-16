@@ -5,9 +5,9 @@ using TerrariaApi.Server;
 namespace PluginTemplate
 {
     /// <summary>
-    /// The main plugin class should always be decorated with an ApiVersion attribute. The current API Version is 1.22
+    /// The main plugin class should always be decorated with an ApiVersion attribute. The current API Version is 2.00 and don't forget to add OTAPI
     /// </summary>
-    [ApiVersion(1,22)]
+    [ApiVersion(2,00)]
     public class PluginTemplate : TerrariaPlugin
     {
         /// <summary>
