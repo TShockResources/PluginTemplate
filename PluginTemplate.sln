@@ -1,9 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginTemplate", "PluginTemplate\PluginTemplate.csproj", "{DCA3A85E-22A6-48E2-998D-343C2BE8402F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginTemplate", "PluginTemplate\PluginTemplate.csproj", "{C9110ACD-9CEF-492D-8DE0-B4FCDDE79C62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DCA3A85E-22A6-48E2-998D-343C2BE8402F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DCA3A85E-22A6-48E2-998D-343C2BE8402F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DCA3A85E-22A6-48E2-998D-343C2BE8402F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DCA3A85E-22A6-48E2-998D-343C2BE8402F}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
+		{C9110ACD-9CEF-492D-8DE0-B4FCDDE79C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9110ACD-9CEF-492D-8DE0-B4FCDDE79C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9110ACD-9CEF-492D-8DE0-B4FCDDE79C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9110ACD-9CEF-492D-8DE0-B4FCDDE79C62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

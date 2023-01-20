@@ -156,3 +156,6 @@ $RECYCLE.BIN/
 .DS_Store
 packages/
 CourtView2000V2.Puller/Help/
+
+# JetBrains IDEA
+.idea
